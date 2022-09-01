@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guided3_StringExtra</string>
+    <string name="hijau">Hijau</string>
+    <string name="warna">Warna</string>
+    <string name="merah">Merah</string>
+    <string name="biru">Biru</string>
+</resources>
